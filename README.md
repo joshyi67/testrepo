@@ -1,8 +1,8 @@
 # Joshua's Data Science Profile:
--**Computer programming** - 2 /n
--**Math** - 4 /n 
--**Statistics** - 2 
--**Machine learning** - 1 
--**Domain expertise** - 3 
--**Communication and presentation skills** - 2 
--**Data visualization** - 3
+-**Computer programming** - 2  <br />
+-**Math** - 4  <br />
+-**Statistics** - 2  <br />
+-**Machine learning** - 1  <br />
+-**Domain expertise** - 3  <br />
+-**Communication and presentation skills** - 2  <br />
+-**Data visualization** - 3 <br />
